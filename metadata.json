@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "AI-Powered EdTech Student Platform - Learn Smarter, Attend Better, Grow Faster",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
